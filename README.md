@@ -1,2 +1,2 @@
 # hello-world
-Hello GitHub!
+Hello humans.. this is a new begining .. welcome to the planet!
