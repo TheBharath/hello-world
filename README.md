@@ -1,2 +1,2 @@
 # hello-world
-Hello humans.. this is a new begining .. welcome to the planet!
+Hello humans.. this is a new begining... let's commit some changes
